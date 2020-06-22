@@ -1,10 +1,9 @@
-XX. Lectures: ../3SS_top/Lectures
+XX. Lectures:  https://github.com/Bio3SS/Lectures.git ../3SS_top/Lectures
 
-XX. web: ../3SS_top/web
+XX. web:  https://github.com/Bio3SS/Bio3SS.github.io.git ../3SS_top/web
 
-XX. Homework: ../3SS_top/Homework
+XX. Homework:  https://github.com/Bio3SS/Homework.git ../3SS_top/Homework
 
-XX. Tests: ../3SS_top/Tests
+XX. Tests:  https://github.com/Bio3SS/Tests.git ../3SS_top/Tests
 
-XX. Marking: ../3SS_top/Marking
-
+XX. Marking:  https://github.com/Bio3SS/Marking.git ../3SS_top/Marking
