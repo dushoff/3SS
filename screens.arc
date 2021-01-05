@@ -7,3 +7,7 @@ XX. Homework:  https://github.com/Bio3SS/Homework.git ../3SS_top/Homework
 XX. Tests:  https://github.com/Bio3SS/Tests.git ../3SS_top/Tests
 
 XX. Marking:  https://github.com/Bio3SS/Marking.git ../3SS_top/Marking
+
+exponential: https://github.com/Bio3SS/Exponential_figures.git ../3SS_top/exponential
+
+ts: ../3SS_top/ts

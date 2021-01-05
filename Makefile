@@ -9,7 +9,7 @@ current: target
 ######################################################################
 
 vim_session: 
-	bash -cl "vmt screens.list"
+	bash -cl "vmt screens.list notes.txt"
 	
 screen_session: screens.update
 	$(MAKE) $(vscreens)
@@ -18,7 +18,7 @@ screen_session: screens.update
 
 ### Makestuff
 
-Sources += Makefile
+Sources += Makefile notes.txt
 
 Ignore += makestuff
 msrepo = https://github.com/dushoff
