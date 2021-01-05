@@ -14,11 +14,16 @@ vim_session:
 screen_session: screens.update
 	$(MAKE) $(vscreens)
 
+Sources += Makefile notes.txt
+
+## mcmaster/index.md
+mcmaster:
+	(ls ~/Dropbox/courses/mcmaster > /dev/null) \
+	&& ln -s ~/Dropbox/courses/mcmaster $@
+
 ######################################################################
 
 ### Makestuff
-
-Sources += Makefile notes.txt
 
 Ignore += makestuff
 msrepo = https://github.com/dushoff
