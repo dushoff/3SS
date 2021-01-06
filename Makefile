@@ -16,7 +16,7 @@ screen_session: screens.update
 
 Sources += Makefile notes.txt
 
-## mcmaster/index.md
+## mcmaster.filemerge: mcmaster.md
 mcmaster:
 	(ls ~/Dropbox/courses/mcmaster > /dev/null) \
 	&& ln -s ~/Dropbox/courses/mcmaster $@

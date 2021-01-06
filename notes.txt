@@ -2,6 +2,23 @@
 To do
 * Figure out exam dates (should be moved later)
 * update outline
+* Post updated intro and math notes
+* invite students
+* figure out why the schedule is $#@!ed up
+* figure out why the numbers are $#@!ed up
+* Create channels
+	* George tutorials
+	* Steve tutorials
+	* Maybe tutorial lectures (but we can set this up later if the team decides they're doing it)
+	* One channel per unit
+
+Set up polls and review poll policy
+
+Avenue announcements are still the gold standard for communication
+* Is Avenue working? It says active
+
+----------------------------------------------------------------------
+
 
 Teams stuff
 * https://office365.mcmaster.ca/microsoft-teams-winter-2021-class-teams-now-available/
