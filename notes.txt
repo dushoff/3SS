@@ -4,8 +4,6 @@ To do
 * update outline
 * Post updated intro and math notes
 * invite students
-* figure out why the schedule is $#@!ed up
-* figure out why the numbers are $#@!ed up
 * Create channels
 	* George tutorials
 	* Steve tutorials
