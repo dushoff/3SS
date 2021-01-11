@@ -3,6 +3,7 @@ To do
 * Figure out exam dates (should be moved later)
 * update outline
 * Post updated intro and math notes
+* Poll everywhere
 * invite students
 * Create channels
 	* George tutorials
