@@ -6,10 +6,8 @@ To do
 * Poll everywhere
 * invite students
 * Create channels
-	* George tutorials
-	* Steve tutorials
-	* Maybe tutorial lectures (but we can set this up later if the team decides they're doing it)
 	* One channel per unit
+* Add TAs to Avenue
 
 Set up polls and review poll policy
 
@@ -17,7 +15,6 @@ Avenue announcements are still the gold standard for communication
 * Is Avenue working? It says active
 
 ----------------------------------------------------------------------
-
 
 Teams stuff
 * https://office365.mcmaster.ca/microsoft-teams-winter-2021-class-teams-now-available/

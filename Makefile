@@ -14,7 +14,7 @@ vim_session:
 screen_session: screens.update
 	$(MAKE) $(vscreens)
 
-Sources += Makefile notes.txt
+Sources += Makefile notes.txt top.mk
 
 ## mcmaster.filemerge: mcmaster.md
 mcmaster:

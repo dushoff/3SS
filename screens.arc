@@ -11,3 +11,5 @@ XX. Marking:  https://github.com/Bio3SS/Marking.git ../3SS_top/Marking
 XX. exponential: https://github.com/Bio3SS/Exponential_figures.git ../3SS_top/exponential
 
 XX. ts:  https://github.com/Bio3SS/Population_time_series.git ../3SS_top/ts
+
+XX. dd: https://github.com/mac-theobio/Disease_data.git
