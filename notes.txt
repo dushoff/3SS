@@ -1,9 +1,7 @@
 
-Assignments due Mondays at noon
-* promulgate practice assignment
+* promulgate tutorial announcement
 
 Email google links to the team
-* https://docs.google.com/spreadsheets/d/1eW0zUurSE-jpfLmknaFuzjFxJUgHZkZ0d-gWt3yrkF4/edit#gid=0
 * Another one (flesh this out?)
 
 To do
@@ -12,8 +10,10 @@ To do
 
 Test scheduling and setup
 * Ask Rosa what the options are
-* Email and form from SAS 
-https://mail.google.com/mail/u/0/#label/Sunday/FMfcgxwKkRMvWvRxlphlqRnDnhPHKdGZ
+
+Deal with the video editing
+
+Channel for tutorial-material questions
 
 ----------------------------------------------------------------------
 
