@@ -1,6 +1,4 @@
 
-* promulgate tutorial announcement
-
 Email google links to the team
 * Another one (flesh this out?)
 
@@ -10,10 +8,6 @@ To do
 
 Test scheduling and setup
 * Ask Rosa what the options are
-
-Deal with the video editing
-
-Channel for tutorial-material questions
 
 ----------------------------------------------------------------------
 
