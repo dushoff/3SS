@@ -1,17 +1,23 @@
-XX. Lectures:  https://github.com/Bio3SS/Lectures.git ../3SS_top/Lectures
+XX. Lectures:  https://github.com/Bio3SS/Lectures.git
 
-XX. web:  https://github.com/Bio3SS/Bio3SS.github.io.git ../3SS_top/web
+XX. web:  https://github.com/Bio3SS/Bio3SS.github.io.git
 
-XX. Homework:  https://github.com/Bio3SS/Homework.git ../3SS_top/Homework
+XX. Homework:  https://github.com/Bio3SS/Homework.git
 
-XX. Tests:  https://github.com/Bio3SS/Tests.git ../3SS_top/Tests
+XX. Tests:  https://github.com/Bio3SS/Tests.git
 
-XX. Marking:  https://github.com/Bio3SS/Marking.git ../3SS_top/Marking
+XX. Marking:  https://github.com/Bio3SS/Marking.git
 
 evaluation: https://github.com/Bio3SS/Evaluation_materials
 
-XX. exponential: https://github.com/Bio3SS/Exponential_figures.git ../3SS_top/exponential
+## Directories used by Lectures
 
-XX. ts:  https://github.com/Bio3SS/Population_time_series.git ../3SS_top/ts
+exponential: https://github.com/Bio3SS/Exponential_figures.git
 
-XX. dd: https://github.com/mac-theobio/Disease_data.git
+ts:  https://github.com/Bio3SS/Population_time_series.git
+
+dd: https://github.com/mac-theobio/Disease_data.git
+
+bd_models: https://github.com/Bio3SS/Birth_death_models.git
+
+compensation: https://github.com/Bio3SS/Compensation_models.git
