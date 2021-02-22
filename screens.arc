@@ -24,7 +24,12 @@ bd_models: https://github.com/Bio3SS/Birth_death_models.git
 
 compensation: https://github.com/Bio3SS/Compensation_models.git
 
-life_history: https://github.com/Bio3SS/Life_history
+life_history: https://github.com/Bio3SS/Life_history.git
+
+XX. macPop: https://github.com/Bio3SS/macPop.git
+
+## I think I didn't use this because it uses shiny
+bolker: https://github.com/bbolker/Bio3ss3/ ## NOALL
 
 ## Ancient and confusing
 Assignments: life_history: https://github.com/Bio3SS/Assignments
