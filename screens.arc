@@ -10,6 +10,8 @@ XX. Marking:  https://github.com/Bio3SS/Marking.git
 
 evaluation: https://github.com/Bio3SS/Evaluation_materials
 
+######################################################################
+
 ## Directories used by Lectures
 
 Search at https://github.com/Bio3SS/
@@ -25,6 +27,16 @@ bd_models: https://github.com/Bio3SS/Birth_death_models.git
 compensation: https://github.com/Bio3SS/Compensation_models.git
 
 life_history: https://github.com/Bio3SS/Life_history.git
+
+Life_tables: https://github.com/Bio3SS/Life_tables.git
+
+age: https://github.com/Bio3SS/Age_distributions.git
+
+structure: https://github.com/Bio3SS/Structured_models.git
+
+######################################################################
+
+## R packaging
 
 XX. macPop: https://github.com/Bio3SS/macPop.git
 
