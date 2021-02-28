@@ -1,12 +1,12 @@
 
-Break week
-* Introduce R
+Promulgate R assignment
 
-Poll review
+Tutorials are optional but are the place to get R help
+* midterm review, R intro stuff
 
-Midterm prep
+Grade and post the midterm
 
-Grading spreadsheet
+Assignment grades; contact TA for details or questions
 
 ----------------------------------------------------------------------
 
