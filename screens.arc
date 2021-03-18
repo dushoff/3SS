@@ -34,6 +34,8 @@ age: https://github.com/Bio3SS/Age_distributions.git
 
 structure: https://github.com/Bio3SS/Structured_models.git
 
+competition: https://github.com/Bio3SS/Competition_models
+
 ######################################################################
 
 ## R packaging
