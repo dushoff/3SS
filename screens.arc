@@ -14,8 +14,6 @@ evaluation: https://github.com/Bio3SS/Evaluation_materials
 
 ## Directories used by Lectures
 
-Search at https://github.com/Bio3SS/
-
 exponential: https://github.com/Bio3SS/Exponential_figures.git
 
 ts:  https://github.com/Bio3SS/Population_time_series.git
@@ -37,6 +35,16 @@ structure: https://github.com/Bio3SS/Structured_models.git
 competition: https://github.com/Bio3SS/Competition_models
 
 exploitation: https://github.com/Bio3SS/Exploitation_models
+
+sims: https://github.com/dushoff/SIR_simulations
+
+WA_Ebola_Outbreak: https://github.com/Outbreak-analysis/WA_Ebola_Outbreak.git
+
+boxes: https://github.com/dushoff/SIR_model_family
+
+## ln -s /home/dushoff/screens/research/Canada covidCA  ##
+covidCA: https://github.com/wzmli/COVID19-Canada.git
+
 
 ######################################################################
 
