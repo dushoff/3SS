@@ -14,13 +14,13 @@ evaluation: https://github.com/Bio3SS/Evaluation_materials
 
 ## Directories used by Lectures
 
-exponential: https://github.com/Bio3SS/Exponential_figures.git
+XX. exponential: https://github.com/Bio3SS/Exponential_figures.git
 
 ts:  https://github.com/Bio3SS/Population_time_series.git
 
-dd: https://github.com/mac-theobio/Disease_data.git
+XX. dd: https://github.com/mac-theobio/Disease_data.git
 
-bd_models: https://github.com/Bio3SS/Birth_death_models.git
+XX. bd_models: https://github.com/Bio3SS/Birth_death_models.git
 
 compensation: https://github.com/Bio3SS/Compensation_models.git
 
