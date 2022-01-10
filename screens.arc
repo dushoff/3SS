@@ -34,7 +34,7 @@ structure: https://github.com/Bio3SS/Structured_models.git
 
 competition: https://github.com/Bio3SS/Competition_models
 
-exploitation: https://github.com/Bio3SS/Exploitation_models
+XX. exploitation: https://github.com/Bio3SS/Exploitation_models
 
 sims: https://github.com/dushoff/SIR_simulations
 
