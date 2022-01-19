@@ -8,7 +8,8 @@ XX. Tests:  https://github.com/Bio3SS/Tests.git
 
 XX. Marking:  https://github.com/Bio3SS/Marking.git
 
-evaluation: https://github.com/Bio3SS/Evaluation_materials
+### Service for Tests and HW
+XX. evaluation: https://github.com/Bio3SS/Evaluation_materials
 
 ######################################################################
 
