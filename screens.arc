@@ -57,5 +57,5 @@ XX. macPop: https://github.com/Bio3SS/macPop.git
 bolker: https://github.com/bbolker/Bio3ss3/ ## NOALL
 
 ## Ancient and confusing
-Assignments: life_history: https://github.com/Bio3SS/Assignments
+Assignments: https://github.com/Bio3SS/Assignments
 
