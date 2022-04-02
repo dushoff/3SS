@@ -8,19 +8,20 @@ XX. Tests:  https://github.com/Bio3SS/Tests.git
 
 XX. Marking:  https://github.com/Bio3SS/Marking.git
 
-evaluation: https://github.com/Bio3SS/Evaluation_materials
+### Service for Tests and HW
+XX. evaluation: https://github.com/Bio3SS/Evaluation_materials
 
 ######################################################################
 
 ## Directories used by Lectures
 
-exponential: https://github.com/Bio3SS/Exponential_figures.git
+XX. exponential: https://github.com/Bio3SS/Exponential_figures.git
 
 ts:  https://github.com/Bio3SS/Population_time_series.git
 
-dd: https://github.com/mac-theobio/Disease_data.git
+XX. dd: https://github.com/mac-theobio/Disease_data.git
 
-bd_models: https://github.com/Bio3SS/Birth_death_models.git
+XX. bd_models: https://github.com/Bio3SS/Birth_death_models.git
 
 compensation: https://github.com/Bio3SS/Compensation_models.git
 
@@ -32,9 +33,9 @@ age: https://github.com/Bio3SS/Age_distributions.git
 
 structure: https://github.com/Bio3SS/Structured_models.git
 
-competition: https://github.com/Bio3SS/Competition_models
+XX. competition: https://github.com/Bio3SS/Competition_models
 
-exploitation: https://github.com/Bio3SS/Exploitation_models
+XX. exploitation: https://github.com/Bio3SS/Exploitation_models
 
 sims: https://github.com/dushoff/SIR_simulations
 
@@ -56,4 +57,5 @@ XX. macPop: https://github.com/Bio3SS/macPop.git
 bolker: https://github.com/bbolker/Bio3ss3/ ## NOALL
 
 ## Ancient and confusing
-Assignments: life_history: https://github.com/Bio3SS/Assignments
+Assignments: https://github.com/Bio3SS/Assignments
+
