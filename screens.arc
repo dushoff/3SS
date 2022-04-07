@@ -25,7 +25,7 @@ XX. bd_models: https://github.com/Bio3SS/Birth_death_models.git
 
 compensation: https://github.com/Bio3SS/Compensation_models.git
 
-life_history: https://github.com/Bio3SS/Life_history.git
+XX. life_history: https://github.com/Bio3SS/Life_history.git
 
 Life_tables: https://github.com/Bio3SS/Life_tables.git
 
