@@ -37,7 +37,7 @@ XX. competition: https://github.com/Bio3SS/Competition_models
 
 XX. exploitation: https://github.com/Bio3SS/Exploitation_models
 
-sims: https://github.com/dushoff/SIR_simulations
+XX. sims: https://github.com/dushoff/SIR_simulations
 
 WA_Ebola_Outbreak: https://github.com/Outbreak-analysis/WA_Ebola_Outbreak.git
 
