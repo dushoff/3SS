@@ -23,7 +23,7 @@ XX. dd: https://github.com/mac-theobio/Disease_data.git
 
 XX. bd_models: https://github.com/Bio3SS/Birth_death_models.git
 
-compensation: https://github.com/Bio3SS/Compensation_models.git
+XX. compensation: https://github.com/Bio3SS/Compensation_models.git
 
 XX. life_history: https://github.com/Bio3SS/Life_history.git
 
