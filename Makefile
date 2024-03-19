@@ -23,6 +23,7 @@ mcmaster:
 
 ######################################################################
 
+Ignore += covidCA
 covidCA: dir = /home/dushoff/screens/research/Canada
 covidCA:
 	$(linkdirname)
