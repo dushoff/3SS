@@ -43,9 +43,9 @@ WA_Ebola_Outbreak: https://github.com/Outbreak-analysis/WA_Ebola_Outbreak.git
 
 boxes: https://github.com/dushoff/SIR_model_family
 
-## Weird, must be used for pardirs; do not open here
+## Prefer making covidCA as a link
 ## ln -s /home/dushoff/screens/research/Canada covidCA  ##
-covidCA: https://github.com/wzmli/COVID19-Canada.git
+## covidCA: https://github.com/wzmli/COVID19-Canada.git
 
 ######################################################################
 

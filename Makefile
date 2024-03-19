@@ -23,6 +23,12 @@ mcmaster:
 
 ######################################################################
 
+covidCA: dir = /home/dushoff/screens/research/Canada
+covidCA:
+	$(linkdirname)
+
+######################################################################
+
 ### Makestuff
 
 Ignore += makestuff
